@@ -12,17 +12,13 @@ I opened the Chrome Web Store extension manager to review installed extensions.
 1.  **Google Docs Offline:** Official Google extension. Deemed safe.
 2.  **McAfee® WebAdvisor:** A security extension. While legitimate, I identified it as "unnecessary" because Chrome has built-in security features, and third-party toolbars can sometimes impact browser performance.
 
-![Before Removal](before_removal.png)
-*(Note: Upload your first screenshot here)*
+
 
 ## Step 2: Action Taken
 I decided to remove **McAfee® WebAdvisor** to reduce browser bloat and rely on native browser security features.
 
 * **Action:** Clicked "Remove" in the extension manager.
 * **Outcome:** The extension was successfully uninstalled.
-
-![After Removal](after_removal.png)
-*(Note: Upload your second screenshot here)*
 
 ## Step 3: Conclusion
 By auditing my extensions, I ensured that no malicious tools were running. I removed one unnecessary extension to minimize the attack surface and potential tracking.
